@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 !#/bin/bash
+=======
+#!/bin/bash
+>>>>>>> 76f755d133a2906ab7cdb38a721edf74e959e0eb
 pwd
